@@ -14,6 +14,6 @@ A simple clone of the classic Tetris game, built using the [Raylib](https://www.
 - Handling input using Raylib
 - Block collision and grid system logic
 
-📷 Screenshot of the game:
+## 📷 Screenshot of the game:
 
 ![Tetris Screenshot](https://i.imgur.com/MwiC26u.png)
